@@ -1,0 +1,7 @@
+ultralytics
+gradio
+numpy<2.0.0
+opencv-python-headless
+Pillow
+tqdm
+git+https://github.com/openai/CLIP.git

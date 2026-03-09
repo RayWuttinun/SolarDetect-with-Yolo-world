@@ -1,0 +1,9 @@
+# ใช้ Path ตรงๆ ไปเลย
+path: solar_dataset
+
+train: images/train
+val: images/val
+
+nc: 1
+names:
+  0: solar panel
