@@ -3,14 +3,14 @@
 โปรเจกต์นี้เป็นการประยุกต์ใช้ **YOLO-World** (Vision Language Model) เพื่อตรวจจับ "แผงโซลาร์เซลล์" (Solar Panels) จากภาพถ่ายดาวเทียม โดยใช้ Zero-shot ได้ทันทีโดยไม่ต้องเทรนโมเดลใหม่ตั้งแต่ต้น
 
 หลังจาก Git Clone เเล้วสามารถรับโมเดลที่เทรนเเล้วได้มาวางในโฟลเดอร์ SolarDetect-with-Yolo-world ได้ที่ลิ้งนี้
-link
+[link](https://drive.google.com/file/d/1ON2cr3DAURZVpPMPe4LUBs12jibinuiq/view?usp=sharing)
 จากนั้นสามารถ
 ```bash
 docker build -t solar-detection-app .
 docker run -d -p 7860:7860 --name solar-container solar-detection-app
 http://localhost:7860/
 ```
-วิธีตามปกติ
+วิธีปกติ
 **1. Clone Repository**
 ```bash
 git clone [https://github.com/RayWuttinun/SolarDetect-with-Yolo-world.git](https://github.com/RayWuttinun/SolarDetect-with-Yolo-world.git)
