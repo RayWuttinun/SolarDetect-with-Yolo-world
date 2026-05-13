@@ -13,7 +13,7 @@ http://localhost:7860/
 วิธีปกติ
 **1. Clone Repository**
 ```bash
-git clone [https://github.com/RayWuttinun/SolarDetect-with-Yolo-world.git](https://github.com/RayWuttinun/SolarDetect-with-Yolo-world.git)
+git clone https://github.com/RayWuttinun/SolarDetect-with-Yolo-world.git
 cd SolarDetect-with-Yolo-world
 ```
 **2. Set Up Docker**
